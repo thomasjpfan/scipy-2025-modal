@@ -1,6 +1,6 @@
-# Template for Slides + Remark
+# Modal: Serverless Python w/ GPUs
 
-[Link to slides](https://thomasjpfan.github.io/slides-template/)
+[Link to slides](https://thomasjpfan.github.io/scipy-2025-modal/)
 
 ## License
 
