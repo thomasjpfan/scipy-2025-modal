@@ -3,19 +3,21 @@ use_katex: False
 class: title-slide
 
 # Modal: Serverless Python w/ GPUs
+<br>
 
-.g[
-.g-6[
-![](images/modal.png)
-]
-.g-6[
-]
-]
+![:scale 70%](images/modal.png)
 
+.g.g-middle[
+.g-8[
 .larger[Thomas J. Fan]<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank" class="title-link"><span class="icon icon-github right-margin"></span>@thomasjpfan</a>
 <a href="https://linkedin.com/in/thomasjpfan" target="_blank" class="this-talk-link">linkedin.com/in/thomasjpfan</a>
-<a class="this-talk-link", href="https://github.com/thomasjpfan/scipy-2025-modal" target="_blank">github.com/thomasjpfan/scipy-2025-modal</a>
+<a class="this-talk-link", href="https://thomasjpfan.github.io/scipy-2025-modal" target="_blank">thomasjpfan.github.io/scipy-2025-modal</a>
+]
+.g-4[
+![:scale 90%](images/qrcode.png)
+]
+]
 
 ---
 
@@ -120,11 +122,12 @@ class: chapter-slide
 
 # Modal: Serverless Python w/ GPUs
 
-.g[
-.g-6[
-![](images/modal.png)
+.g.g-middle.g-center[
+.g-8[
+![:scale 80%](images/modal.png)
 ]
-.g-6[
+.g-4[
+![:scale 80%](images/qrcode.png)
 ]
 ]
 
