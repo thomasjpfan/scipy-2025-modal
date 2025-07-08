@@ -131,7 +131,7 @@ class: chapter-slide
 ![:scale 80%](images/modal.png)
 ]
 .g-4[
-![:scale 80%](images/qrcode.png)
+![:scale 100%](images/qrcode.png)
 ]
 ]
 
