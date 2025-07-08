@@ -27,7 +27,7 @@ class: title-slide
 .g-6[
 - Serverless Python 🐍
 - Managed Infrastructure 📖
-- Near Instant Availability of GPUs 🚀
+- Instant Availability of GPUs 🚀
 - Great Developer Experience 🪄
 ]
 .g-6[
@@ -70,6 +70,10 @@ class: chapter-slide
 ---
 
 # Custom File System 🗂️
+
+.center[
+![:scale 60%](images/modal-filesystem.png)
+]
 
 ---
 
