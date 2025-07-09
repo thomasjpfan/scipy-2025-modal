@@ -1,8 +1,8 @@
-title: Modal: Serverless Python w/ GPUs
+title: Modal: Serverless Python with GPUs
 use_katex: False
 class: title-slide
 
-# Modal: Serverless Python w/ GPUs
+# Modal: Serverless Python with GPUs
 <br>
 
 ![:scale 70%](images/modal.png)
@@ -156,7 +156,7 @@ class: chapter-slide
 
 ---
 
-# Modal: Serverless Python w/ GPUs
+# Modal: Serverless Python with GPUs
 
 .g.g-middle.g-center[
 .g-8[
