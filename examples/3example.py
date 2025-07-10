@@ -5,7 +5,7 @@ app = modal.App("example3")
 image = modal.Image.debian_slim().uv_pip_install("torch", "numpy")
 
 
-@app.function(gpu="h100!", image=image)
+@app.function(gpu="h100", image=image)
 def double_it(x):
     import torch
 
